@@ -1,0 +1,9 @@
+NAME="Ayun"
+VERSION=1
+ID=ayun
+ID_LIKE=arch
+VERSION_ID=1
+PRETTY_NAME="Ayün"
+ANSI_COLOR="1;34"
+HOME_URL="https://github.com/Ayun-Linux"
+
